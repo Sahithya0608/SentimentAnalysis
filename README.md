@@ -83,13 +83,6 @@ Clone this repository or open the notebook in Google Colab.
 
 Upload your kaggle.json file to enable dataset download.
 
-Run all the cells sequentially to reproduce the analysis.
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/Sentiment-Analysis
-Or simply click the "Open in Colab" badge to get started immediately.
 
 📌 Future Enhancements
 Experiment with advanced models like Naive Bayes, SVM, or deep learning approaches (LSTM, BERT).
